@@ -1,0 +1,26 @@
+h1,OL
+{
+	color:blue;
+	background-color:yellow;
+	font-family:Monotype corsiva;
+	letter-spacing:30;
+	word-spacing:20;
+}
+body
+{
+	background-color:pink;
+	color:blue
+}
+.ABC
+{
+	background-color:orange;
+	Font-family:Tahoma;
+	font-size:25
+}
+#PQR
+{
+	background-color:Cyan;
+	Font-family:Jokerman;
+	font-size:30;
+	letter-spacing:30
+}
